@@ -96,6 +96,7 @@ public class ClientView extends JFrame implements ActionListener {
                 }
             } catch (IOException | ClassNotFoundException e1) {
                 // TODO Auto-generated catch block
+                System.out.println("ok");
                 e1.printStackTrace();
             }
             
